@@ -45,10 +45,8 @@ Dutch 🇳🇱 • English 🇬🇧
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maikel-vdb&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maikel-vdb&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=maikel-vdb&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daveymunters87&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveymunters87&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
