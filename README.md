@@ -34,8 +34,8 @@ My passion for development started when I was just 7 years old. Since then, I’
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveymunters87&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveymunters87&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maikel-vdb&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikel-vdb&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
 ---
