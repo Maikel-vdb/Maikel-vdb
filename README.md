@@ -1,67 +1,58 @@
-<h1 align="center">Hi, I'm Maikel van der Berg</h1>
-<p align="center">
-  🇳🇱 Software Developer · 19 y/o · Based in the Netherlands  
-</p>
-<p align="center">
-  🎓 Studying Software Development (MBO4) at Bit Academy in Groningen  
-  <br>
-  💻 Focused on building real-world skills and meaningful tech projects
-</p>
+# Maikel van der Berg
+
+**`Software Developer`** (MBO4 Student @ Bit Academy)
+
+🇳🇱 Based in Groningen, Netherlands  
+📧 [Contact via GitHub](https://github.com/maikelvanderberg)
 
 ---
 
-## ✨ About Me
+### � Education & Focus
+- Currently in Year 2 of 3-year Software Development program
+- Practical focus on web development and system design
+- Regular collaboration with industry partners
 
-- 📌 Currently in year 2 of a 3-year Software Developer program  
-- 🧠 Learning by doing — personal projects, scripting, client work  
-- 🤝 Experience working with 300+ clients on game scripts and custom tools  
-- 🌱 Always improving my skills in development, logic, and clean code  
-
----
-
-## 🛠️ Skills & Tools
-
-### 📌 Languages
-```txt
-HTML • CSS • JavaScript • TypeScript (basic)
-PHP (basic) • MySQL (basic)
-Python (intermediate)
-```
-
-### 🧩 Frameworks & Tools
-```txt
-Tailwind CSS • Bootstrap
-Vue (learning) • Angular (learning)
-Git • GitHub
-```
-
-### 🌍 Languages I Speak
-```txt
-Dutch 🇳🇱 • English 🇬🇧
-```
+### 💼 Professional Experience
+- Delivered 300+ client solutions (2019-present)
+- Specialized in custom automation scripts
+- Experience with both individual and team projects
 
 ---
 
-## 📊 GitHub Stats
+### Technical Proficiencies
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maikel-vdb&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikel-vdb&layout=compact&theme=tokyonight" height="150"/>
-</div>
+**Core Technologies**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
 
----
-
-## 📫 Contact
-
-Want to connect or collaborate?
-
-```txt
-GitHub: github.com/maikelvanderberg
-LinkedIn: Coming soon
-```
+**Tools & Environments**  
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?logo=git)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux)
 
 ---
+
+### Development Activity
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maikel-vdb&show_icons=true&theme=neutral">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikel-vdb&layout=compact&theme=neutral">
 </p>
+
+---
+
+### Current Learning Path
+- Modern web frameworks (Vue/Angular)
+- Software architecture patterns
+- Database optimization techniques
+
+---
+
+### Professional Principles
+1. Clean, maintainable code
+2. Client-focused solutions
+3. Continuous skill development
+4. Security-conscious practices
